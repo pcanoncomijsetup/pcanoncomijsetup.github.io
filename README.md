@@ -1,6 +1,6 @@
 #  ij.start.canon
 
-[![ij.start.canon](getstaredd.png)](http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com)
+[![ij.start.canon](get-start.png)](http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com)
 
 Download and install Canon ij setup from canon.com/ijsetup to start using powerful features packed into the incredibly 
 compact bodies of your Canon printer. You can find multiple ranges of printers such as canon inkjet selphy, Maxify, Canon mg3620 ink, Canon mx490 ink, or others. **[canon.com/ijsetup](https://pcanoncomijsetup.github.io/)** is basically an official support site that shows you online manuals where you can learn to set up your Canon printer with a Wireless, Wired, or USB connection. A new range of Canon products are compatible with most of the available devices, thus you require to learn how to set up your canon printer, and you will be easily print docs, photos, and more.
